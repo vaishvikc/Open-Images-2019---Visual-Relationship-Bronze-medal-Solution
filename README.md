@@ -4,6 +4,8 @@
 1. EDA : google-ai-visual-relationship-data-exploration.ipynb<br>
 2. Median preds submission : Median of preds.ipynb<br>
 
+<h5>Won Bronze Medal in Competition:</h5>https://www.kaggle.com/vaishvik25
+
 <h5>About Competition:</h5>
 Introduction
 Computer vision has advanced considerably but is still challenged in matching the precision of human perception.
